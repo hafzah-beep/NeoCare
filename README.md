@@ -65,16 +65,24 @@ doctor-booking-app/
 │
 ├── client/
 │   ├── src/
+│   │   ├── assets/
 │   │   ├── components/
+│   │   ├── context/
 │   │   ├── dashboard/
+│   │   ├── layouts/
 │   │   ├── pages/
 │   │   ├── routes/
 │   │   ├── services/
-│   │   └── App.jsx
+│   │   ├── styles/
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
 │   │
 │   └── package.json
 │
 ├── server/
+│   ├── config/
 │   ├── controllers/
 │   ├── middleware/
 │   ├── models/
